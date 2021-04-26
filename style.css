@@ -159,6 +159,7 @@ div .kira{
     div .jeanette{
         grid-column: 1;
         grid-row: 3;
+        padding-top: 5px;
     }
     div .patrick{
         grid-column: 1;
