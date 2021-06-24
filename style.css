@@ -96,7 +96,7 @@ div .jonathan{
 
 div .jeanette{
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 30px 30px 80px hsl(0, 0%, 81%);
+    box-shadow: -30px 30px 80px hsl(0, 0%, 81%);
     grid-column: 1; 
     grid-row: 2;   
 }
@@ -114,7 +114,7 @@ div .patrick{
 
 div .kira{
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 150px 100px 250px hsl(0, 0%, 81%);
+    box-shadow: 50px 50px 150px hsl(0, 0%, 81%);
     grid-column: 4; 
     grid-row: 1 / span 2;
 }
